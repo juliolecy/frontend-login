@@ -1,12 +1,10 @@
-https://github.com/juliolecy/frontend-login/blob/main/perfil.mp4
-
 <h1 align='center'>Login Frontend </h1>
 
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/juliolecy/frontend-login">
   
-  <a href="https://github.com/juliolecy/frontend-login/commits/maiin">
+  <a href="https://github.com/juliolecy/frontend-login/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/juliolecy/calculadora_v2">
   </a>
     
@@ -14,7 +12,7 @@ https://github.com/juliolecy/frontend-login/blob/main/perfil.mp4
 
 <div  align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,nodejs,styledcomponents" />
   </a> 
 </div>
 
@@ -38,7 +36,8 @@ https://github.com/juliolecy/frontend-login/blob/main/perfil.mp4
 
 
 ## 💻 Sobre o projeto
-  Front-end de Login com validação. Este projeto faz parte do bootcamp DIO Orange Tech+.
+
+  Front-end de Login com validação através do React Hook Form + Yup. Este projeto faz parte do bootcamp DIO Orange Tech+.
 --- 
 
 ## ✨ Clone este projeto
